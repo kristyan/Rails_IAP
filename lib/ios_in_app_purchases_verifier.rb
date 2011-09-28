@@ -1,4 +1,4 @@
- # Provides functionality to communicate with Apples in app puchases receipt verification API
+ # Provides functionality to communicate with Apples in app purchases receipt verification API
  class IosInAppPurchasesVerifier
   include HTTParty
   
